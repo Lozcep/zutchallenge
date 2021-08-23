@@ -58,9 +58,7 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
     "loopback-connector-mysql": "^5.4.4",
-    "tslib": "^2.0.0"
-  },
-  "devDependencies": {
+    "tslib": "^2.0.0",
     "@loopback/build": "^7.0.0",
     "@loopback/eslint-config": "^11.0.0",
     "@loopback/testlab": "^3.4.2",
