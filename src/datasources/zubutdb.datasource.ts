@@ -10,7 +10,7 @@ const config = {
   port: process.env.DB_PORT,
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
-  database: 'zubutdb'
+  database: process.env.DB_DATABASE
 };
 // Observe application's life cycle to disconnect the datasource when
 // application is stopped. This allows the application to be shut down
